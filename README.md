@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm J. Eduardo Acacio</h1>
+<h1 align="center">Hey there 👋, I'm J. Emmanuel Martinez</h1>
 <h3 align="center">💻 Passionate Software Engineering Student | Java & Web Developer 🚀</h3>
 
 ---
@@ -51,7 +51,7 @@
 
 ### 📫 Let's Connect!  
 <p align="center">
-  <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="emma3md@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/TU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
