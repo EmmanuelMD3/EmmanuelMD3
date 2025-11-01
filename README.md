@@ -1,13 +1,13 @@
-<h1 align="center">Hey there 👋, I'm J. Emmanuel Martinez</h1>
-<h3 align="center">💻 Passionate Software Engineering Student | Java & Backend Enthusiast 🚀</h3>
+<h1 align="center">Hey there 👋, I'm J. Eduardo Acacio</h1>
+<h3 align="center">💻 Passionate Software Engineering Student | Java & Web Developer 🚀</h3>
 
 ---
 
 ### 🧠 About Me  
 - 🎓 I'm a **Software Engineering student** with a love for **technology** and **continuous learning**.  
-- 💡 I’m currently focused on **backend development** and **Java desktop applications** using **JavaFX**.  
-- 🛠️ I enjoy designing solutions that make an impact, one line of code at a time.  
-- 🚀 Always improving, always learning — I believe growth never stops!  
+- 💡 I’m currently focused on **Java desktop applications (JavaFX)** and **web development** using **Laravel & PHP**.  
+- 🛠️ I enjoy designing meaningful solutions that make an impact, one line of code at a time.  
+- 🚀 Always improving, always learning — growth never stops!  
 
 ---
 
@@ -16,8 +16,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaFX-3776AB?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
@@ -40,9 +43,9 @@
 
 ### 🌱 Currently Learning  
 - Advanced **JavaFX UI/UX design**
-- **Spring Boot REST APIs**
+- **Laravel backend** and **PHP optimization**
+- Building responsive web apps with **HTML5** & **CSS3**
 - **Database optimization** with MySQL
-- Exploring **cloud deployment (AWS / Render)**
 
 ---
 
