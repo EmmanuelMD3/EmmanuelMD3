@@ -16,7 +16,7 @@
 - 🚀 I love learning new frameworks and improving my problem-solving skills every day.  
 - 🎯 My goal: to become a strong developer who builds software that truly helps people.  
 
-📩 **Contact me:** [emm3md@gmail.com](mailto:emm3md@gmail.com)
+📩 **Contact me:** [emma3md@gmail.com](mailto:emm3md@gmail.com)
 
 ---
 
