@@ -1,13 +1,22 @@
-<h1 align="center">Hey there 👋, I'm J. Emmanuel Martinez</h1>
-<h3 align="center">💻 Passionate Software Engineering Student | Java & Web Developer 🚀</h3>
+<!-- Banner animado con tu nombre -->
+<h1 align="center">
+  <a href="https://github.com/EmmanuelMD3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=👋+Hey!+I'm+Emmanuel+Martínez+Diaz;💻+Software+Engineering+Student;🚀+Java+%7C+Laravel+%7C+MySQL+%7C+PHP;🌟+Always+learning+new+things!" alt="Typing SVG" />
+  </a>
+</h1>
 
 ---
 
-### 🧠 About Me  
-- 🎓 I'm a **Software Engineering student** with a love for **technology** and **continuous learning**.  
-- 💡 I’m currently focused on **Java desktop applications (JavaFX)** and **web development** using **Laravel & PHP**.  
-- 🛠️ I enjoy designing meaningful solutions that make an impact, one line of code at a time.  
-- 🚀 Always improving, always learning — growth never stops!  
+### 👨‍💻 About Me  
+
+- 🎓 I'm a **Software Engineering student at UAEMéx** (Universidad Autónoma del Estado de México).  
+- 🎂 I'm **20 years old**, born and raised in **Toluca, México 🇲🇽**.  
+- 💡 I’m passionate about **technology, backend development**, and creating elegant, functional software.  
+- 🧠 I mainly work with **Java**, **JavaFX**, **Laravel**, and **MySQL**.  
+- 🚀 I love learning new frameworks and improving my problem-solving skills every day.  
+- 🎯 My goal: to become a strong developer who builds software that truly helps people.  
+
+📩 **Contact me:** [emm3md@gmail.com](mailto:emm3md@gmail.com)
 
 ---
 
@@ -31,39 +40,39 @@
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EmmanuelMD3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelMD3&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelMD3&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ### 🌱 Currently Learning  
-- Advanced **JavaFX UI/UX design**
-- **Laravel backend** and **PHP optimization**
-- Building responsive web apps with **HTML5** & **CSS3**
-- **Database optimization** with MySQL
+- Building powerful **web apps with Laravel & PHP**  
+- Designing **interactive desktop UIs with JavaFX**  
+- Enhancing **database design** and **backend logic**  
+- Learning about **API integration** and **software architecture**
 
 ---
 
-### 📫 Let's Connect!  
+### 🌐 Connect With Me  
+
 <p align="center">
-  <a href="emma3md@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="mailto:emm3md@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/EmmanuelMD3"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 💬 Quote I Live By  
-> “Code is like humor. When you have to explain it, it’s bad.”  
-> — *Cory House*
+> “The best way to predict the future is to create it.”  
+> — *Alan Kay*
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&color=0e75b6&style=flat" alt="TU_USUARIO" />
+  <img src="https://komarev.com/ghpvc/?username=EmmanuelMD3&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
