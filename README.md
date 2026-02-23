@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me  
 
 - 🎓 I'm a **Software Engineering student at UAEMéx** (Universidad Autónoma del Estado de México).  
-- 🎂 I'm **20 years old**, born and raised in **Toluca, México 🇲🇽**.  
+- 🎂 I'm **21 years old**, born and raised in **Toluca, México 🇲🇽**.  
 - 💡 I’m passionate about **technology, backend development**, and creating elegant, functional software.  
 - 🧠 I mainly work with **Java**, **JavaFX**, **Laravel**, and **MySQL**.  
 - 🚀 I love learning new frameworks and improving my problem-solving skills every day.  
