@@ -63,20 +63,15 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
 
----
 ## 📊 GitHub Analytics  
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelMD3&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-
-  <br/><br/>
-
-  <img src="https://streak-stats.demolab.com?user=EmmanuelMD3&theme=tokyonight&hide_border=true" height="170"/>
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelMD3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=EmmanuelMD3&theme=tokyonight&hide_border=true&border_radius=10" 
+    height="180" 
+    alt="GitHub Streak"
+  />
 
 </div>
 
