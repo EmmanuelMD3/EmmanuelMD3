@@ -68,12 +68,15 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EmmanuelMD3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelMD3&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EmmanuelMD3&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelMD3&layout=compact&theme=tokyonight&langs_count=8"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=EmmanuelMD3&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelMD3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 ---
